@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "required": true, 
+            "name": "GDC Code", 
+            "maxLength": 6
+        }, 
+        {
+            "required": true, 
+            "name": "Dental Consultant Code", 
+            "maxLength": 8
+        }, 
+        {
+            "required": true, 
+            "name": "Surname", 
+            "maxLength": 75
+        }, 
+        {
+            "required": false, 
+            "name": "Initials", 
+            "maxLength": 3
+        }, 
+        {
+            "required": true, 
+            "name": "Sex", 
+            "maxLength": 1
+        }, 
+        {
+            "required": true, 
+            "name": "Specialty Function Code", 
+            "maxLength": 3
+        }, 
+        {
+            "required": true, 
+            "name": "Practitioner Type", 
+            "maxLength": 1
+        }, 
+        {
+            "required": true, 
+            "name": "Location Organisation Code", 
+            "maxLength": 5
+        }
+    ]
+}

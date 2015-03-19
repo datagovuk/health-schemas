@@ -1,0 +1,104 @@
+{
+    "fields": [
+        {
+            "required": true, 
+            "name": "Nurse Type", 
+            "maxLength": 2
+        }, 
+        {
+            "required": true, 
+            "name": "Parent Organisation Code", 
+            "maxLength": 6
+        }, 
+        {
+            "required": true, 
+            "name": "Nurse PIN", 
+            "maxLength": 8
+        }, 
+        {
+            "required": true, 
+            "name": "Open Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Close Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Title", 
+            "maxLength": 6
+        }, 
+        {
+            "required": false, 
+            "name": "Initials", 
+            "maxLength": 10
+        }, 
+        {
+            "required": true, 
+            "name": "Surname", 
+            "maxLength": 40
+        }, 
+        {
+            "required": false, 
+            "name": "Address1", 
+            "maxLength": 25
+        }, 
+        {
+            "required": false, 
+            "name": "Address2", 
+            "maxLength": 25
+        }, 
+        {
+            "required": false, 
+            "name": "Address3", 
+            "maxLength": 25
+        }, 
+        {
+            "required": false, 
+            "name": "Address4", 
+            "maxLength": 25
+        }, 
+        {
+            "required": false, 
+            "name": "Address5", 
+            "maxLength": 25
+        }, 
+        {
+            "required": false, 
+            "name": "Postcode", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Telephone Number", 
+            "maxLength": 20
+        }, 
+        {
+            "required": false, 
+            "name": "Senior Partner Name", 
+            "maxLength": 40
+        }, 
+        {
+            "required": true, 
+            "name": "Current Care Organisation Code", 
+            "maxLength": 3
+        }, 
+        {
+            "required": true, 
+            "name": "Name", 
+            "maxLength": 40
+        }, 
+        {
+            "required": false, 
+            "name": "Name manipulation indicator", 
+            "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Qualification indicator", 
+            "maxLength": 1
+        }
+    ]
+}

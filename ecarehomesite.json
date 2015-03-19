@@ -1,0 +1,99 @@
+{
+    "fields": [
+        {
+            "required": true, 
+            "name": "Organisation Code", 
+            "maxLength": 5
+        }, 
+        {
+            "required": true, 
+            "name": "Name", 
+            "maxLength": 100
+        }, 
+        {
+            "required": false, 
+            "name": "National Grouping", 
+            "maxLength": 3
+        }, 
+        {
+            "required": false, 
+            "name": "High Level Health Geography", 
+            "maxLength": 3
+        }, 
+        {
+            "required": true, 
+            "name": "Address Line 1", 
+            "maxLength": 35
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 2", 
+            "maxLength": 35
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 3", 
+            "maxLength": 35
+        }, 
+        {
+            "required": true, 
+            "name": "Address Line 4", 
+            "maxLength": 35
+        }, 
+        {
+            "required": true, 
+            "name": "Address Line 5", 
+            "maxLength": 35
+        }, 
+        {
+            "required": true, 
+            "name": "Postcode", 
+            "maxLength": 8
+        }, 
+        {
+            "required": true, 
+            "name": "Open Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Close Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": true, 
+            "name": "Parent Organisation Code", 
+            "maxLength": 4
+        }, 
+        {
+            "required": true, 
+            "name": "Join Parent Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Left Parent Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Contact Telephone Number", 
+            "maxLength": 12
+        }, 
+        {
+            "required": false, 
+            "name": "Amended Record Indicator", 
+            "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Current Care Organisation", 
+            "maxLength": 3
+        }, 
+        {
+            "required": false, 
+            "name": "Country", 
+            "maxLength": 2
+        }
+    ]
+}

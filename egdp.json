@@ -1,0 +1,39 @@
+{
+    "fields": [
+        {
+            "required": true, 
+            "name": "Organisation Code", 
+            "maxLength": 8
+        }, 
+        {
+            "required": true, 
+            "name": "Name", 
+            "maxLength": 50
+        }, 
+        {
+            "required": false, 
+            "name": "Open Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": false, 
+            "name": "Close Date", 
+            "maxLength": 8
+        }, 
+        {
+            "required": true, 
+            "name": "Organisation Sub-Type Code", 
+            "maxLength": 1
+        }, 
+        {
+            "required": true, 
+            "name": "Amended Record Indicator", 
+            "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "GDC Code", 
+            "maxLength": 6
+        }
+    ]
+}
