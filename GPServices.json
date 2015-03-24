@@ -1,0 +1,12 @@
+{
+    "fields": [
+        {
+            "required": false, 
+            "name": "OrganisationId"
+        }, 
+        {
+            "required": false, 
+            "name": "ServiceName"
+        }
+    ]
+}

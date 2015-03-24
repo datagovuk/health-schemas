@@ -1,0 +1,28 @@
+{
+    "fields": [
+        {
+            "required": false, 
+            "name": "OrganisationId"
+        }, 
+        {
+            "required": false, 
+            "name": "WeekDay"
+        }, 
+        {
+            "required": false, 
+            "name": "Times"
+        }, 
+        {
+            "required": false, 
+            "name": "IsOpen"
+        }, 
+        {
+            "required": false, 
+            "name": "OpeningTimeType"
+        }, 
+        {
+            "required": false, 
+            "name": "AdditionalOpeningDate"
+        }
+    ]
+}

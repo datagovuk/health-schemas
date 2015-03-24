@@ -1,0 +1,64 @@
+{
+    "fields": [
+        {
+            "required": false, 
+            "name": "OrganisationID"
+        }, 
+        {
+            "required": false, 
+            "name": "OrganisationCode"
+        }, 
+        {
+            "required": false, 
+            "name": "OrganisationType"
+        }, 
+        {
+            "required": false, 
+            "name": "SubType"
+        }, 
+        {
+            "required": false, 
+            "name": "OrganisationStatus"
+        }, 
+        {
+            "required": false, 
+            "name": "IsPimsManaged"
+        }, 
+        {
+            "required": false, 
+            "name": "OrganisationName"
+        }, 
+        {
+            "required": false, 
+            "name": "Address1"
+        }, 
+        {
+            "required": false, 
+            "name": "Address2"
+        }, 
+        {
+            "required": false, 
+            "name": "Address3"
+        }, 
+        {
+            "required": false, 
+            "name": "City"
+        }, 
+        {
+            "required": false, 
+            "name": "County"
+        }, 
+        {
+            "required": false, 
+            "name": "Postcode"
+        }, 
+        {
+            "required": false, 
+            "name": "Latitude"
+        }, 
+        {
+            "required": false, 
+            "name": "Longitude"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "fields": [
+        {
+            "required": false, 
+            "name": "OrganisationID"
+        }, 
+        {
+            "required": false, 
+            "name": "Title"
+        }, 
+        {
+            "required": false, 
+            "name": "GivenName"
+        }, 
+        {
+            "required": false, 
+            "name": "FamilyName"
+        }, 
+        {
+            "required": false, 
+            "name": "JobTitle"
+        }, 
+        {
+            "required": false, 
+            "name": "GMCNumber"
+        }
+    ]
+}
