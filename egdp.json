@@ -12,6 +12,38 @@
         }, 
         {
             "required": false, 
+            "name": "Col3"
+        }, 
+        {
+            "required": false, 
+            "name": "Col4"
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 1"
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 2"
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 3"
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 4"
+        }, 
+        {
+            "required": false, 
+            "name": "Address Line 5"
+        }, 
+        {
+            "required": false, 
+            "name": "Postcode"
+        }, 
+        {
+            "required": false, 
             "name": "Open Date", 
             "maxLength": 8
         }, 
@@ -21,9 +53,41 @@
             "maxLength": 8
         }, 
         {
+            "required": false, 
+            "name": "Col13"
+        }, 
+        {
             "required": true, 
             "name": "Organisation Sub-Type Code", 
             "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Col15"
+        }, 
+        {
+            "required": false, 
+            "name": "Col16"
+        }, 
+        {
+            "required": false, 
+            "name": "Col17"
+        }, 
+        {
+            "required": false, 
+            "name": "Col18"
+        }, 
+        {
+            "required": false, 
+            "name": "Col19"
+        }, 
+        {
+            "required": false, 
+            "name": "Col20"
+        }, 
+        {
+            "required": false, 
+            "name": "Col21"
         }, 
         {
             "required": true, 
@@ -32,8 +96,24 @@
         }, 
         {
             "required": false, 
+            "name": "Col23"
+        }, 
+        {
+            "required": false, 
+            "name": "Col24"
+        }, 
+        {
+            "required": false, 
             "name": "GDC Code", 
             "maxLength": 6
+        }, 
+        {
+            "required": false, 
+            "name": "Col26"
+        }, 
+        {
+            "required": false, 
+            "name": "Col27"
         }
     ]
 }

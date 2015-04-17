@@ -39,6 +39,26 @@
             "required": true, 
             "name": "Location Organisation Code", 
             "maxLength": 5
+        }, 
+        {
+            "required": false, 
+            "name": "Col9"
+        }, 
+        {
+            "required": false, 
+            "name": "Col10"
+        }, 
+        {
+            "required": false, 
+            "name": "Col11"
+        }, 
+        {
+            "required": false, 
+            "name": "Col12"
+        }, 
+        {
+            "required": false, 
+            "name": "Col13"
         }
     ]
 }

@@ -91,9 +91,25 @@
             "maxLength": 12
         }, 
         {
+            "required": false, 
+            "name": "Col19"
+        }, 
+        {
+            "required": false, 
+            "name": "Col20"
+        }, 
+        {
+            "required": false, 
+            "name": "Col21"
+        }, 
+        {
             "required": true, 
             "name": "Amended Record Indicator", 
             "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Col23"
         }, 
         {
             "required": true, 
@@ -101,9 +117,17 @@
             "maxLength": 5
         }, 
         {
+            "required": false, 
+            "name": "Col25"
+        }, 
+        {
             "required": true, 
             "name": "Prescribing Setting", 
             "maxLength": 2
+        }, 
+        {
+            "required": false, 
+            "name": "Col27"
         }
     ]
 }

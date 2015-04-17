@@ -61,6 +61,14 @@
             "maxLength": 8
         }, 
         {
+            "required": false, 
+            "name": "Col13"
+        }, 
+        {
+            "required": false, 
+            "name": "Col14"
+        }, 
+        {
             "required": true, 
             "name": "Parent Organisation Code", 
             "maxLength": 4
@@ -86,14 +94,38 @@
             "maxLength": 50
         }, 
         {
+            "required": false, 
+            "name": "Col20"
+        }, 
+        {
+            "required": false, 
+            "name": "Col21"
+        }, 
+        {
             "required": true, 
             "name": "Amended Record Indicator", 
             "maxLength": 1
         }, 
         {
+            "required": false, 
+            "name": "Col23"
+        }, 
+        {
             "required": true, 
             "name": "Current Care Organisation", 
             "maxLength": 3
+        }, 
+        {
+            "required": false, 
+            "name": "Col25"
+        }, 
+        {
+            "required": false, 
+            "name": "Col26"
+        }, 
+        {
+            "required": false, 
+            "name": "Col27"
         }
     ]
 }
