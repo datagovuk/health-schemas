@@ -61,6 +61,10 @@
             "maxLength": 8
         }, 
         {
+            "required": false, 
+            "name": "Col13"
+        }, 
+        {
             "required": true, 
             "name": "Organisation Sub-Type Code", 
             "maxLength": 1
@@ -86,9 +90,41 @@
             "maxLength": 12
         }, 
         {
+            "required": false, 
+            "name": "Col19"
+        }, 
+        {
+            "required": false, 
+            "name": "Col20"
+        }, 
+        {
+            "required": false, 
+            "name": "Col21"
+        }, 
+        {
             "required": true, 
             "name": "Amended Record Indicator", 
             "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Col23"
+        }, 
+        {
+            "required": false, 
+            "name": "Col24"
+        }, 
+        {
+            "required": false, 
+            "name": "Col25"
+        }, 
+        {
+            "required": false, 
+            "name": "Col26"
+        }, 
+        {
+            "required": false, 
+            "name": "Col27"
         }
     ]
 }

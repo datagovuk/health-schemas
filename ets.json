@@ -62,6 +62,10 @@
         }, 
         {
             "required": false, 
+            "name": "Col13"
+        }, 
+        {
+            "required": false, 
             "name": "Organisation Sub-Type Code", 
             "maxLength": 1
         }, 
@@ -72,8 +76,28 @@
         }, 
         {
             "required": false, 
+            "name": "Col16"
+        }, 
+        {
+            "required": false, 
+            "name": "Col17"
+        }, 
+        {
+            "required": false, 
             "name": "Contact Telephone Number", 
             "maxLength": 12
+        }, 
+        {
+            "required": false, 
+            "name": "Col19"
+        }, 
+        {
+            "required": false, 
+            "name": "Col20"
+        }, 
+        {
+            "required": false, 
+            "name": "Col21"
         }, 
         {
             "required": true, 
@@ -81,9 +105,25 @@
             "maxLength": 1
         }, 
         {
+            "required": false, 
+            "name": "Col23"
+        }, 
+        {
             "required": true, 
             "name": "GOR Code", 
             "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Col25"
+        }, 
+        {
+            "required": false, 
+            "name": "Col26"
+        }, 
+        {
+            "required": false, 
+            "name": "Col27"
         }
     ]
 }

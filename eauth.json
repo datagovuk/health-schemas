@@ -16,6 +16,10 @@
             "maxLength": 3
         }, 
         {
+            "required": false, 
+            "name": "Col4"
+        }, 
+        {
             "required": true, 
             "name": "Address Line 1", 
             "maxLength": 35
@@ -57,8 +61,24 @@
         }, 
         {
             "required": false, 
+            "name": "Col13"
+        }, 
+        {
+            "required": false, 
             "name": "Organisation Sub-Type Code", 
             "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Col15"
+        }, 
+        {
+            "required": false, 
+            "name": "Col16"
+        }, 
+        {
+            "required": false, 
+            "name": "Col17"
         }, 
         {
             "required": false, 
@@ -71,9 +91,37 @@
             "maxLength": 50
         }, 
         {
+            "required": false, 
+            "name": "Col20"
+        }, 
+        {
+            "required": false, 
+            "name": "Col21"
+        }, 
+        {
             "required": true, 
             "name": "Amended Record Indicator", 
             "maxLength": 1
+        }, 
+        {
+            "required": false, 
+            "name": "Col23"
+        }, 
+        {
+            "required": false, 
+            "name": "Col24"
+        }, 
+        {
+            "required": false, 
+            "name": "Col25"
+        }, 
+        {
+            "required": false, 
+            "name": "Col26"
+        }, 
+        {
+            "required": false, 
+            "name": "Col27"
         }
     ]
 }
